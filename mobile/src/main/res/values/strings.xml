@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AirPodsDot</string>
+    <string name="toast_on_start_discovery_failed">Please check your Bluetooth device state</string>
 </resources>
